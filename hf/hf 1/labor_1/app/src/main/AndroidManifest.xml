@@ -13,7 +13,7 @@
         android:theme="@style/Theme.MyApplication"
         tools:targetApi="31">
         <activity
-            android:name=".fifthExercise"
+            android:name=".hw_1.fifthExercise"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -22,7 +22,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".fourthExercise"
+            android:name=".fourthExercise.fourthExercise"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -31,7 +31,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".thirdExercise"
+            android:name=".thirdExercise.thirdExercise"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

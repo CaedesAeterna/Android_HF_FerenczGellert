@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.myapplication.thirdExercise;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,6 +7,8 @@ import android.view.KeyEvent;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
+
+import com.example.myapplication.R;
 
 public class thirdExercise extends AppCompatActivity {
 
