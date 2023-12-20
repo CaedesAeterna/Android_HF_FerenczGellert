@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Labor_7_hw</string>
+
+    <string-array name="currencySymbolList">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+
+    </string-array>
+
+    <string-array name="currencyList">
+        <item>Dollar</item>
+        <item>Euro</item>
+        <item>Pound</item>
+
+    </string-array>
+
+    <string-array name="sellPriceList">
+        <item>2</item>
+        <item>3</item>
+        <item>3</item>
+
+    </string-array>
+
+    <string-array name="buyPriceList">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
